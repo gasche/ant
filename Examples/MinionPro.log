@@ -1,0 +1,10 @@
+
+Warning: Cannot load font file `MinionPro-Regular.otf'!
+Warning, in file MinionPro.ant, line 273, column 19:
+Font (MinionPro/medium/normal/10.) not found!
+Warning: Cannot load font file `MinionPro-Regular.otf'!
+Warning, in file MinionPro.ant, line 274, column 84:
+Font (MinionPro/medium/normal/10.) not found!
+Warning: Cannot load font file `MinionPro-It.otf'!
+Warning, in file MinionPro.ant, line 275, column 84:
+Font (MinionPro/medium/italic/10.) not found!

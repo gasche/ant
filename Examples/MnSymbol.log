@@ -1,0 +1,19 @@
+
+Warning: Cannot load font file `MnSymbolF10.tfm'!
+Warning, in file MnSymbol.ant, line 141, column 84:
+Font (MnSymbolF/medium/normal/10.) not found!
+Warning: Cannot load font file `MnSymbolE10.tfm'!
+Warning, in file MnSymbol.ant, line 142, column 84:
+Font (MnSymbolE/medium/normal/10.) not found!
+Warning: Cannot load font file `MnSymbolA10.tfm'!
+Warning, in file MnSymbol.ant, line 143, column 84:
+Font (MnSymbolA/medium/normal/10.) not found!
+Warning: Cannot load font file `MnSymbolB10.tfm'!
+Warning, in file MnSymbol.ant, line 144, column 84:
+Font (MnSymbolB/medium/normal/10.) not found!
+Warning: Cannot load font file `MnSymbolC10.tfm'!
+Warning, in file MnSymbol.ant, line 145, column 84:
+Font (MnSymbolC/medium/normal/10.) not found!
+Warning: Cannot load font file `MnSymbolD10.tfm'!
+Warning, in file MnSymbol.ant, line 146, column 84:
+Font (MnSymbolD/medium/normal/10.) not found!
